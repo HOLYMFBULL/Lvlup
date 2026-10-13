@@ -1,0 +1,364 @@
+[96m============================================================[0m
+[92m    SAITO COMMUNITY - Free Fire Level Up Bot[0m
+[97m    Powered by SAITI COMMUNITY[0m
+[96m============================================================[0m
+[96m[i] Start Match Interval: 3.0s[0m
+[96m[i] Offline Wait: 3.0s (after match found)[0m
+[96m[i] Non-match Reconnect: 1.0s[0m
+[96m[i] Cache Invalidation Threshold: 5.0x[0m
+[96m[i] Parallel Matches: UNLIMITED (background)[0m
+[96m[i] Cache TTL: 1200s (20 min)[0m
+[96m[i] Priority Regions: ['BD', 'IND', 'SG', 'TH', 'PH', 'VN', 'MY', 'ID', 'HK', 'TW'][0m
+[96m[i] Device System: 1 ID = 1 Persistent Device ID (devices.json)[0m
+[96m[i] HTTP Debug: OFF[0m
+[96m============================================================[0m
+[92m[+] AGS COMMUNITY Dashboard live on port 5000[0m
+[92m[+] Dashboard live at port 5000[0m
+[96m[i] [LOGIN] Starting login for Guest UID: 8164540713...[0m
+[92m[+] [CACHE HIT] UID 8164540713 loaded from token_cache.json (no login)[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #1 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #2 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #1] UDP starting -> 103.123.55.27:10018 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 1 | Total: 1[0m
+[95m[MATCH #1] UDP started -> 103.123.55.27:10018 (DNS: 103.123.55.27)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #3 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #4 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m[+] [MATCH #1] Thunder+Sharma sent![0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #2] UDP starting -> 103.123.54.14:10016 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 2 | Total: 2[0m
+[95m[MATCH #2] UDP started -> 103.123.54.14:10016 (DNS: 103.123.54.14)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #2] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #5 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #3] UDP starting -> 103.123.54.68:10017 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 3 | Total: 3[0m
+[95m[MATCH #3] UDP started -> 103.123.54.68:10017 (DNS: 103.123.54.68)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #3] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #6 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #4] UDP starting -> 103.123.54.126:10017 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 4 | Total: 4[0m
+[95m[MATCH #4] UDP started -> 103.123.54.126:10017 (DNS: 103.123.54.126)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #4] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #7 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #8 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #5] UDP starting -> 103.123.54.195:10018 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 5 | Total: 5[0m
+[95m[MATCH #5] UDP started -> 103.123.54.195:10018 (DNS: 103.123.54.195)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #5] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #9 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #6] UDP starting -> 103.123.54.168:10017 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 6 | Total: 6[0m
+[95m[MATCH #6] UDP started -> 103.123.54.168:10017 (DNS: 103.123.54.168)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #6] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #10 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #7] UDP starting -> 103.123.54.123:10015 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 7 | Total: 7[0m
+[95m[MATCH #7] UDP started -> 103.123.54.123:10015 (DNS: 103.123.54.123)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #7] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #11 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #8] UDP starting -> 103.123.54.181:10018 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 8 | Total: 8[0m
+[95m[MATCH #8] UDP started -> 103.123.54.181:10018 (DNS: 103.123.54.181)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #8] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #12 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #13 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#1/5.0) -> reconnecting[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #14 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #9] UDP starting -> 103.123.54.193:10015 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 9 | Total: 9[0m
+[95m[MATCH #9] UDP started -> 103.123.54.193:10015 (DNS: 103.123.54.193)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #9] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #15 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #10] UDP starting -> 103.123.54.165:10017 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 10 | Total: 10[0m
+[95m[MATCH #10] UDP started -> 103.123.54.165:10017 (DNS: 103.123.54.165)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #10] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #16 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #17 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #11] UDP starting -> 103.123.54.68:10018 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 11 | Total: 11[0m
+[95m[MATCH #11] UDP started -> 103.123.54.68:10018 (DNS: 103.123.54.68)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #11] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #18 region: IND[0m
+[92m[+] [MATCH #4] Finished naturally[0m
+[92m[+] [MATCH #11] Finished naturally[0m
+[92m[+] [MATCH #5] Finished naturally[0m
+[92m[+] [MATCH #10] Finished naturally[0m
+[92m[+] [MATCH #1] Finished naturally[0m
+[92m[+] [MATCH #7] Finished naturally[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [MATCH #11] Closed. UID active: 10 | Total active: 10[0m
+[96m[i] [MATCH #7] Closed. UID active: 9 | Total active: 9[0m
+[96m[i] [MATCH #1] Closed. UID active: 8 | Total active: 8[0m
+[96m[i] [MATCH #4] Closed. UID active: 7 | Total active: 7[0m
+[96m[i] [MATCH #5] Closed. UID active: 6 | Total active: 6[0m
+[96m[i] [MATCH #10] Closed. UID active: 5 | Total active: 5[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #19 region: IND[0m
+[91m[-] [GETLOGIN] exception: ConnectTimeout: [0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #6] UDP starting -> 103.123.54.134:10018 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 6 | Total: 6[0m
+[95m[MATCH #6] UDP started -> 103.123.54.134:10018 (DNS: 103.123.54.134)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #6] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #20 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m[+] [MATCH #2] Finished naturally[0m
+[96m[i] [MATCH #2] Closed. UID active: 5 | Total active: 5[0m
+[96m[i] [LONE WOLF] Sending StartMatch #21 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#1/5.0) -> reconnecting[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #22 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #23 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#2/5.0) -> reconnecting[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #24 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #25 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#3/5.0) -> reconnecting[0m
+[91m[-] [GETLOGIN] exception: ConnectTimeout: [0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #26 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#4/5.0) -> reconnecting[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #27 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #28 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #6] UDP starting -> 103.123.55.5:10016 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 6 | Total: 6[0m
+[95m[MATCH #6] UDP started -> 103.123.55.5:10016 (DNS: 103.123.55.5)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #29 region: IND[0m
+[92m[+] [MATCH #6] Thunder+Sharma sent![0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] [LONE WOLF] Sending StartMatch #30 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#1/5.0) -> reconnecting[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #31 region: IND[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [EXP-REFRESH] UID 18622346379 -> Level: 7, EXP: 3498[0m
+[96m[i] [LONE WOLF] Sending StartMatch #32 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] [LONE WOLF] Sending StartMatch #33 region: IND[0m
+[92m[+] [MATCH #6] Finished naturally[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [MATCH #6] Closed. UID active: 5 | Total active: 5[0m
+[96m[i] [LONE WOLF] Sending StartMatch #34 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m[+] [MATCH #9] Finished naturally[0m
+[92m[+] [MATCH #6] Finished naturally[0m
+[96m[i] [MATCH #6] Closed. UID active: 4 | Total active: 4[0m
+[96m[i] [MATCH #9] Closed. UID active: 3 | Total active: 3[0m
+[96m[i] [LONE WOLF] Sending StartMatch #35 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #36 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #37 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #38 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #39 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #4] UDP starting -> 103.123.54.54:10018 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 4 | Total: 4[0m
+[95m[MATCH #4] UDP started -> 103.123.54.54:10018 (DNS: 103.123.54.54)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #4] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #40 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #5] UDP starting -> 103.123.55.37:10015 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 5 | Total: 5[0m
+[95m[MATCH #5] UDP started -> 103.123.55.37:10015 (DNS: 103.123.55.37)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #5] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #41 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #6] UDP starting -> 103.123.55.19:10016 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 6 | Total: 6[0m
+[95m[MATCH #6] UDP started -> 103.123.55.19:10016 (DNS: 103.123.55.19)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #6] Thunder+Sharma sent![0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #42 region: IND[0m
+[91m[-] [GETLOGIN] exception: ConnectTimeout: [0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] [LONE WOLF] Sending StartMatch #43 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#1/5.0) -> reconnecting[0m
+[96m[i] [CACHE] UID 8164540713 expired. Re-login needed.[0m
+[93m[!] [CACHE] Invalidated: 8164540713[0m
+[93m[!] [FUNCTIONAL] Cache miss for 18622346379 -> re-login needed[0m
+[91m[-] [FUNCTIONAL] TCP state (18622346379): Cache expired, triggering fresh login[0m
+[93m[!] [FUNCTIONAL] Triggering re-login for 18622346379[0m
+[93m[!] Session finished for 8164540713. Reconnecting in 3s...[0m
+[96m[i] [LOGIN] Starting login for Guest UID: 8164540713...[0m
+[96m[i] [LOGIN] Full login for UID 8164540713...[0m
+[96m[i] [VERSION] Play Store version = 1.132.1[0m
+[92m[+] [MATCH #3] Finished naturally[0m
+[96m[i] [MATCH #3] Closed. UID active: 5 | Total active: 5[0m
+[92m[+] [MATCH #8] Finished naturally[0m
+[96m[i] [MATCH #8] Closed. UID active: 4 | Total active: 4[0m
+[91m[-] [VERSION] version_config failed: ConnectTimeout: [0m
+[91m[-] [LOGIN] 8164540713: version_config() returned None (network/endpoint failure)[0m
+[91m[-] Login failed for UID: 8164540713. Retrying in 15 seconds...[0m
+[96m[i] [LOGIN] Starting login for Guest UID: 8164540713...[0m
+[96m[i] [LOGIN] Full login for UID 8164540713...[0m
+[96m[i] [VERSION] Play Store version = 1.132.1[0m
+[91m[-] [VERSION] version_config failed: ConnectTimeout: [0m
+[91m[-] [LOGIN] 8164540713: version_config() returned None (network/endpoint failure)[0m
+[91m[-] Login failed for UID: 8164540713. Retrying in 15 seconds...[0m

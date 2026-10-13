@@ -1,0 +1,16 @@
+# Render Blueprint Configuration (render.yaml)
+services:
+  - type: web
+    name: saito-freefire-bot
+    env: docker
+    dockerfilePath: Dockerfile
+    plan: starter
+    region: singapore
+    healthCheckPath: /api/stats
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: ACCOUNTS_FILE
+        value: accounts.json
+      - key: PYTHONUNBUFFERED
+        value: "1"

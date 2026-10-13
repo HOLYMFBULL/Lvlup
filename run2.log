@@ -1,0 +1,174 @@
+[96m============================================================[0m
+[92m    SAITO COMMUNITY - Free Fire Level Up Bot[0m
+[97m    Powered by SAITI COMMUNITY[0m
+[96m============================================================[0m
+[96m[i] Start Match Interval: 3.0s[0m
+[96m[i] Offline Wait: 3.0s (after match found)[0m
+[96m[i] Non-match Reconnect: 1.0s[0m
+[96m[i] Cache Invalidation Threshold: 5.0x[0m
+[96m[i] Parallel Matches: UNLIMITED (background)[0m
+[96m[i] Cache TTL: 1200s (20 min)[0m
+[96m[i] Priority Regions: ['BD', 'IND', 'SG', 'TH', 'PH', 'VN', 'MY', 'ID', 'HK', 'TW'][0m
+[96m[i] Device System: 1 ID = 1 Persistent Device ID (devices.json)[0m
+[96m[i] HTTP Debug: ON[0m
+[96m============================================================[0m
+[92m[+] AGS COMMUNITY Dashboard live on port 5000[0m
+[92m[+] Dashboard live at port 5000[0m
+[96m[i] [LOGIN] Starting login for Guest UID: 8164540713...[0m
+[92m[+] [CACHE HIT] UID 8164540713 loaded from token_cache.json (no login)[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #1 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #2 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #3 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #1] UDP starting -> 103.123.54.54:10018 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 1 | Total: 1[0m
+[95m[MATCH #1] UDP started -> 103.123.54.54:10018 (DNS: 103.123.54.54)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #1] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #4 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #5 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #2] UDP starting -> 103.123.54.30:10015 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 2 | Total: 2[0m
+[95m[MATCH #2] UDP started -> 103.123.54.30:10015 (DNS: 103.123.54.30)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #2] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #6 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #3] UDP starting -> 103.123.54.223:10017 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 3 | Total: 3[0m
+[95m[MATCH #3] UDP started -> 103.123.54.223:10017 (DNS: 103.123.54.223)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #3] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #7 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #4] UDP starting -> 103.123.54.164:10017 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 4 | Total: 4[0m
+[95m[MATCH #4] UDP started -> 103.123.54.164:10017 (DNS: 103.123.54.164)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #4] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #8 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #5] UDP starting -> 103.123.55.11:10016 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 5 | Total: 5[0m
+[95m[MATCH #5] UDP started -> 103.123.55.11:10016 (DNS: 103.123.55.11)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #5] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #9 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #6] UDP starting -> 103.123.55.43:10018 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 6 | Total: 6[0m
+[95m[MATCH #6] UDP started -> 103.123.55.43:10018 (DNS: 103.123.55.43)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #6] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #10 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #7] UDP starting -> 103.123.54.108:10017 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 7 | Total: 7[0m
+[95m[MATCH #7] UDP started -> 103.123.54.108:10017 (DNS: 103.123.54.108)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m
+[92m[+] [MATCH #7] Thunder+Sharma sent![0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #11 region: BD[0m
+[92m[+] [MATCH #6] Finished naturally[0m
+[96m[i] [MATCH #6] Closed. UID active: 6 | Total active: 6[0m
+[92m[+] [MATCH #2] Finished naturally[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] [MATCH #2] Closed. UID active: 5 | Total active: 5[0m
+[96m[i] [LONE WOLF] Sending StartMatch #12 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#1/5.0) -> reconnecting[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[95m
+======================================================================[0m
+[95m[HTTP->] GetLoginData[0m
+[97m  URL     : https://client.ind.freefiremobile.com/GetLoginData[0m
+[97m  Method  : POST[0m
+[97m  Headers :[0m
+[97m    User-Agent: UnityPlayer/2018.4.12f1 (UnityWebRequest/1.0, libcurl/8.5.0-DEV)[0m
+[97m    Connection: Keep-Alive[0m
+[97m    Accept-Encoding: gzip[0m
+[97m    Content-Type: application/x-www-form-urlencoded[0m
+[97m    Expect: 100-continue[0m
+[97m    X-Unity-Version: 2018.4.12f1[0m
+[97m    X-GA-SV: 1789535859[0m
+[97m    X-GA: v1 1[0m
+[97m    ReleaseVersion: OB55[0m
+[97m    Authorization: Bearer eyJhbGciOiJIUzI1NiIsInN2ciI6IjMiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxODYyMjM0NjM3OSwibmlja25hbWUiOiJkQWhjQVZRTEJWY0IiLCJub3RpX3JlZ2lvbiI6IklORCIsImxvY2tfcmVnaW9uIjoiSU5EIiwiZXh0ZXJuYWxfaWQiOiJmNmM3ODUzMThhZjI2YjdkYWFmMzUyYzU5M2RkNjNhOSIsImV4dGVybmFsX3R5cGUiOjQsInBsYXRfaWQiOjAsImNsaWVudF92ZXJzaW9uIjoiMS4xMzIuMTAiLCJjbGllbnRfdmVyc2lvbl9jb2RlIjoiMjAxOTEyMTIyOSIsImVtdWxhdG9yX3Njb3JlIjoxMDAsImlzX2VtdWxhdG9yIjp0cnVlLCJjb3VudHJ5X2NvZGUiOiJJTiIsImV4dGVybmFsX3VpZCI6ODE2NDU0MDcxMywicmVnX2F2YXRhciI6MTAyMDAwMDA3LCJzb3VyY2UiOjAsImxvY2tfcmVnaW9uX3RpbWUiOjE3OTE4NjIxNzYsImNsaWVudF90eXBlIjoxLCJzaWduYXR1cmVfbWQ1IjoiNzQyOGIyNTNkZWZjMTY0MDE4YzYwNGExZWJiZmViZGYiLCJ1c2luZ192ZXJzaW9uIjowLCJyZWxlYXNlX2NoYW5uZWwiOiJhbmRyb2lkIiwicmVsZWFzZV92ZXJzaW9uIjoiT0I1NSIsImV4cCI6MTc5MTkwMTc4N30.e2Fm9RZmkiFjmH0eUmKOCKfjVgMLJGztJoPKo-ISlCA[0m
+[97m    Host: clientbp.ppmainecoonghj.com[0m
+[97m  Body    : <bytes 1248>[0m
+[97m    hex   : 8effb351913077342f6cead59ca6572c4b84436cec4f686c31a22eaa2d318a71e6f5777743709565380241dc07d918c7068906f914984300fa226b99bb453532443770913cf3958aa270e0d70892e031d7c5f8a5c9ded71ec0212bf520981e59ea4b2c28340fe5db5dd9f6ee0538faef124440c018fbe9d799077e893c01ee3fabb7693d874b1dc864beea4819c769c4d57ae56e3c4529c78b3f2352d09631e2aac08e6322607cd149c410dd456a441b58b8d67744075ab40aaf7f0f03b8fc09f907e0ba1c8b6c5bc5681682e0d06399c9cb214bba42623a067def441b55f84d4a2704e6cd5f59e2e1b13b3ef8dd3c0c9e57e4e6821882efe4e315e1151d518cb14d79a291d5bf2b96dd4af8e1ba458b24724c76ed03c5c92037acc7d6b4f84b93dd5ea64fb0fa73843c18c1872eac67acf7e3e5f8029562e6b29c2b2d6434aac1586547f809a49386455e0c0683a353cadfc40ffb5cfddd76c281fb0fe1db850c570e900e4c5fc8781666e301e62427fb5c8d046c0f42fa3df043fccc0e7891537c1bfef50a79cc3cc32d2f1159d8fa03bfb9971c83e69057194d7cd3659eb9acf55f14934c0b3d3c5287649d53b0c19f084a4126f56f1ad15fb3dbafdaa5def97ba4b2cdcca31d10b879acf19db8a6e3468a50b6988be5087ebc516cbadff08b955daed96434c4ea7aac1e4ca502974ca33a3756a7b3d8ff1cfecc1e4307ff431ac85c23e1780c673539e96419673f4552e4ff621e5f1f2f13225edf9a3b914b8ce34cbd52518926df9595f99feb9cfaa2fc2e75ea022a96ed380f5993b9596ef59f3cec376adb9a47473c7dcad3847ab4c657b56546f60eefcd3aeae75b8619343012ff713c0c8025994ef532c777eb74c13049385b018572e099ed50600c39d1dbf6b0b4ecb30243d9611e432511823348a3b1ce561b18294f7c791dd1cdac62515fbd326ab78919c9ae897d2b75efcf556372802aa4bbcb471ce92adb0df60cbdd0570707a9e5b9e7dc8b56904bd3fa527d876bddb60b96009d740ec0b7ae6592591a2000047f20d6046b7eb369b234ae8b73abfd6bc8809bc1319967a10bce1cec6351a16410562baee1b7dbaf1d6c5f10cc27eef030f912d7df1d70e8fca757a3c232da5b4b7008c251e1bc8319768fdd73e72ebe369da79bd11eb545cae87685aecf324b08688a414aaa391defb9ec8e6bb45f8ebcbec625a954fd6569ce97edf94bf3c65935e46354700ae60ced8900546bd7d4e24e9df7c6bc2917d63cd26acdb2f38be94601b1a7ab4974387b81c4ff3980af1021bdeaf1a1a7be14c119260a135a6a838804eab98f14dc13f74747ff0fe2678d62daaac7743b8c79c14b39564baf7ec9758a7aa95e0d1a68c3adc96197441290af905fa1dd054d60f56b713d4830b959e05ef461fff7e448cd0038cace80314be2a00a831eb2181db9a0375f4d823abe2c0ef8d0319828fced08844130c038fde3fde034434b24376a4ad6e2633f5fa626e8d9c3007ea136805efaddb77db4fc5eb330bca928e4af2d5424bdb97d627f034da5cd817aa9c260833fefce068fce55aa8eb021ad2d363054250e82c78eedfca89a68c366a50f6149b434faaab7e9160d31ba6619d0257c04431cd7e5aa61c75efb547ccbd16da8e44fcb4ecadf8f7633f1cea9ba2c6807533b9658c6d7f4e289cedbe2fb3e411a99dc7651af9fbc8484c9dd274de34068cd1628f1ffb060bbb6ddc17622377a1113f1a4603a3300d922b4fba8ccd5[0m
+[97m    (len % 16 == 0 -> looks like AES-CBC ciphertext)[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #13 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[91m[HTTPX] GetLoginData  FAILED after 17344ms[0m
+[91m  Exception: ConnectTimeout: [0m
+[95m======================================================================
+[0m
+[91m[-] [GETLOGIN] exception: ConnectTimeout: [0m
+[96m[i] [LONE WOLF] Sending StartMatch #14 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[93m[!] [FUNCTIONAL] Non-match big packet (#2/5.0) -> reconnecting[0m
+[92m[+] [MATCH #7] Finished naturally[0m
+[96m[i] [MATCH #7] Closed. UID active: 4 | Total active: 4[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #15 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] [LONE WOLF] Sending StartMatch #16 region: BD[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] Match starting, please wait...[0m
+[92m============================================================[0m
+[92mMATCH FOUND! Loading...[0m
+[92m============================================================[0m
+[96m[MATCH #5] UDP starting -> 103.123.54.30:10017 (background)[0m
+[92m[+] [FUNCTIONAL] UDP task started. UID active: 5 | Total: 5[0m
+[95m[MATCH #5] UDP started -> 103.123.54.30:10017 (DNS: 103.123.54.30)[0m
+[96m[i] [OFFLINE] 3.0s offline -> reload token -> new StartMatch[0m

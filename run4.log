@@ -1,0 +1,172 @@
+[96m============================================================[0m
+[92m    SAITO COMMUNITY - Free Fire Level Up Bot[0m
+[97m    Powered by SAITI COMMUNITY[0m
+[96m============================================================[0m
+[96m[i] Start Match Interval: 15.0s[0m
+[96m[i] Offline Wait: 3.0s (after match found)[0m
+[96m[i] Non-match Reconnect: 1.0s[0m
+[96m[i] Cache Invalidation Threshold: 5.0x[0m
+[96m[i] Parallel Matches: UNLIMITED (background)[0m
+[96m[i] Cache TTL: 3600s (60 min)[0m
+[96m[i] Priority Regions: ['BD', 'IND', 'SG', 'TH', 'PH', 'VN', 'MY', 'ID', 'HK', 'TW'][0m
+[96m[i] Device System: 1 ID = 1 Persistent Device ID (devices.json)[0m
+[96m[i] HTTP Debug: OFF[0m
+[96m============================================================[0m
+[92m[+] AGS COMMUNITY Dashboard live on port 5000[0m
+[92m[+] Dashboard live at port 5000[0m
+[96m[i] [LOGIN] Starting login for Guest UID: 8164540713...[0m
+[96m[i] [LOGIN] Full login for UID 8164540713...[0m
+[96m[i] [VERSION] Play Store version = 1.132.1[0m
+[92m[+] [VERSION] rv=OB55 cv=1.132.10 url=https://loginbp.ppmainecoonghj.com/[0m
+[96m[i] [LOGIN] 8164540713: version ok rv=OB55 cv=1.132.10 url=https://loginbp.ppmainecoonghj.com/[0m
+[96m[i] [TOKEN-GRANT] attempt 1/5 for uid=8164540713[0m
+[96m[i] [TOKEN-GRANT] status=200[0m
+[92m[+] [TOKEN-GRANT] ok - open_id=f6c785318af26b7daaf352c593dd63a9 platform=4[0m
+[96m[i] [LOGIN] 8164540713: token grant ok open_id=f6c785318af26b7daaf352c593dd63a9 platform=4[0m
+[96m[i] [LOGIN] 8164540713: device=Vivo V2203[0m
+[96m[i] [MAJORLOGIN-PAYLOAD] raw=1242B encrypted=1248B[0m
+[96m[i] [MAJORLOGIN] POST https://loginbp.ppmainecoonghj.com/MajorLogin rv=OB55 payload_len=1248[0m
+[92m[+] [MAJORLOGIN] parsed @64: region=IND account_id=18622346379[0m
+[96m[i] [LOGIN] 8164540713: MajorLogin ok region=IND account_id=18622346379[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [LOGIN] 8164540713: GetLoginData ok func=202.181.79.204:39699 info=202.181.79.9:39801[0m
+[92m[+] [CACHE] Saved credentials for UID 8164540713[0m
+[92m[+] [LOGIN] 8164540713: full login complete - account_id=18622346379 region=IND[0m
+[92m[+] [FUNCTIONAL] TCP Gateway Connected for UID: 18622346379 (DNS: 202.181.79.204)[0m
+[96m[i] [LONE WOLF] Sending StartMatch #1 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #2 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #3 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #4 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #5 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #6 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [EXP-REFRESH] UID 18622346379 -> Level: 8, EXP: 3902[0m
+[96m[i] [LONE WOLF] Sending StartMatch #7 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #8 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #9 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #10 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #11 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #12 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [EXP-REFRESH] UID 18622346379 -> Level: 8, EXP: 3902[0m
+[96m[i] [LONE WOLF] Sending StartMatch #13 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #14 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #15 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #16 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #17 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #18 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [EXP-REFRESH] UID 18622346379 -> Level: 8, EXP: 3902[0m
+[96m[i] [LONE WOLF] Sending StartMatch #19 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #20 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #21 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #22 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #23 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [EXP-REFRESH] UID 18622346379 -> Level: 8, EXP: 3902[0m
+[96m[i] [LONE WOLF] Sending StartMatch #24 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #25 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #26 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #27 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #28 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #29 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [EXP-REFRESH] UID 18622346379 -> Level: 8, EXP: 3902[0m
+[96m[i] [LONE WOLF] Sending StartMatch #30 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #31 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #32 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #33 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #34 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #35 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [EXP-REFRESH] UID 18622346379 -> Level: 8, EXP: 3902[0m
+[96m[i] [LONE WOLF] Sending StartMatch #36 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #37 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #38 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #39 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #40 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [LONE WOLF] Sending StartMatch #41 region: IND[0m
+[92m[+] [LONE WOLF] StartMatch packet sent[0m
+[96m[i] Match starting, please wait...[0m
+[96m[i] [GETLOGIN] POST https://client.ind.freefiremobile.com/GetLoginData rv=OB55 token=eyJhbGciOiJIUzI1NiIsInN2...[0m
+[96m[i] [EXP-REFRESH] UID 18622346379 -> Level: 8, EXP: 3902[0m
