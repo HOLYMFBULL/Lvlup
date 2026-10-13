@@ -1,8 +1,8 @@
 httpx
 google-play-scraper
 pycryptodome
+pycryptodomex
 protobuf-decoder
 protobuf
 requests
 aiohttp
-httpx
